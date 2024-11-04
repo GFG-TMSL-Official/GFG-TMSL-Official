@@ -6,7 +6,6 @@
     alt = "GFG TMSL Student Chapter"
     width: 500% 
     height: 100% 
-    align = "center"
   />
 </p>
 
