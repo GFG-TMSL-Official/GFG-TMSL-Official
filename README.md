@@ -1,5 +1,3 @@
-<!-- # GFG TMSL Student Chapter -->
-
 <p align = "center">
   <img 
     src = "imgs/github-header/v4.png"
@@ -43,7 +41,7 @@
   </a>
 </p>
 
-## Wings
+## Different Wings of GFG TMSL
   - **Technical** Wing
   - **Events** Wing
   - **Design & Branding** Wing
@@ -51,7 +49,7 @@
   - **Marketing & Sponsership** Wing
   - **Social Media** Wing
 
-## Core Members
+## Our Current Core Team
   - **Chairperson**: [Arin Karmakar](https://wa.me/919476476209)
   - **Vice-Chairperson**: [Chandan Kumar Raj](https://wa.me/918340606284)
   - **Technical Wing** *Head*: []()
@@ -67,5 +65,24 @@
   - **Social Media Wing** *Head*: []()
   - **Social Media Wing** *Co-Head*: []()
 
-<!-- ## Our Goal
-  - **NOTHING** -->
+## Our Objectives
+- **Skill Enhancement**: 
+  - Conduct coding competitions, 
+  - Conduct workshops and webinars focused on:
+    - Data structures and different algorithms
+    - Different software development tools
+    - Cutting edge technologies
+- **Industry Exposure**:
+  - We provide guidance with access to guest lectures and mentorship from industry professionals.
+  - We help others to gain insights into current trends and technologies.
+- **Project Development**: 
+  - We encourage students to 
+    - work on real-world projects.
+    - contribute to open-source projects.
+    - build their portfolio.
+    - participate in different types of hackathons.
+- **Community Building**: 
+  - We create a platform where students can collaborate, solve problems, and support each other in their technical journeys.
+
+<!-- ## Our Vision
+- KICHU NEI -->
