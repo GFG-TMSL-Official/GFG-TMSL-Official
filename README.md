@@ -1,4 +1,4 @@
-# GFG TMSL Student Chapter (2024)
+# GFG TMSL Student Chapter
 
 ## Platforms
   - [LinkedIn]()
