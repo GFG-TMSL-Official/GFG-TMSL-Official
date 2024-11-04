@@ -1,5 +1,7 @@
 # GFG TMSL Student Chapter
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=GFG-TMSL-Official/GFG-TMSL-Official)
+
 ## Platforms
   - [LinkedIn]()
   - [Instagram]()
