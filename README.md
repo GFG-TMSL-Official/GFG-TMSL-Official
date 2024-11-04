@@ -10,6 +10,36 @@
   />
 </p>
 
+<p align = "center">
+  <img 
+    src = "imgs/github-header/v2.png"
+    alt = "Hey! This is GFG TMSL Student Chapter."
+    width: 500% 
+    height: 100% 
+    align = "center"
+  />
+</p>
+
+<p align = "center">
+  <img 
+    src = "imgs/github-header/v3.png"
+    alt = "Hey! This is GFG TMSL Student Chapter."
+    width: 500% 
+    height: 100% 
+    align = "center"
+  />
+</p>
+
+<p align = "center">
+  <img 
+    src = "imgs/github-header/v4.png"
+    alt = "Hey! This is GFG TMSL Student Chapter."
+    width: 500% 
+    height: 100% 
+    align = "center"
+  />
+</p>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GFG-TMSL-Official/GFG-TMSL-Official)
 
 ## Social Handles
