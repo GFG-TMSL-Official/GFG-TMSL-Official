@@ -2,7 +2,7 @@
 
 <p align = "center">
   <img 
-    src = "imgs/github-header/v1.webp"
+    src = "imgs/github-header/v1.png"
     alt = "Hey! This is GFG TMSL Student Chapter."
     width: 500% 
     height: 100% 
