@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GFG-TMSL-Official/GFG-TMSL-Official)
 
-## Platforms
+## Social Handles
   - [LinkedIn]()
   - [Instagram]()
   - [FaceBook]()
