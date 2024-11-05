@@ -20,10 +20,6 @@
   <a href="mailto:gfg.tmsl.official@gmail.com" alt="GFG TMSL Official | Gmail">
     <img height="34" src="imgs/social-media/gmail.webp" alt="Gmail">
   </a>
-  <!-- WhatsApp -->
-  <a href="https://chat.whatsapp.com/CCJpcqGNEpDDwFxQJcogka" alt="GFG TMSL Official | WhatsApp">
-    <img height="34" src="imgs/social-media/whatsapp.webp" alt="WhatsApp">
-  </a>
   <!-- YouTube -->
   <a href="" alt="GFG TMSL Official | YouTube">
     <img height="34" src="imgs/social-media/youtube.webp" alt="YouTube">
@@ -90,4 +86,4 @@
 
 ## Important Links
 <!-- - Visit our website at [https://gfgtmsl.com](https://gfgtmsl.com) -->
-- To join our official WhatsApp community [click here](https://chat.whatsapp.com/CCJpcqGNEpDDwFxQJcogka).
+- To join our WhatsApp community [click here](https://chat.whatsapp.com/CCJpcqGNEpDDwFxQJcogka).
