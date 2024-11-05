@@ -90,4 +90,4 @@
 
 ## Important Links
 <!-- - Visit our website at [https://gfgtmsl.com](https://gfgtmsl.com) -->
-- To join our WhatsApp community [click here](https://chat.whatsapp.com/CCJpcqGNEpDDwFxQJcogka).
+- To join our official WhatsApp community [click here](https://chat.whatsapp.com/CCJpcqGNEpDDwFxQJcogka).
