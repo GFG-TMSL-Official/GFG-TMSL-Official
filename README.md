@@ -47,7 +47,7 @@
   - **Marketing & Sponsership** Wing
   - **Social Media** Wing
 
-## Our Current Core Team
+## Our Current Administrative Team
   - **Chairperson**: [Arin Karmakar](https://wa.me/919476476209)
   - **Vice-Chairperson**: [Chandan Kumar Raj](https://wa.me/918340606284)
   - **Technical Wing** *Head*: []()
