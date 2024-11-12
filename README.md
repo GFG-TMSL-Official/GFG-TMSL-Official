@@ -8,7 +8,7 @@
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GFG-TMSL-Official/GFG-TMSL-Official)
-![info](https://img.shields.io/badge/GFG%20Student%20Chapter-Techno%20Main%20Salt%20Lake-darkgreen)
+![info](https://img.shields.io/badge/GFG%20Student%20Chapter-Techno%20Main%20Salt%20Lake-09845E)
 
 ## Social Handles
 <p align = "center">
