@@ -18,7 +18,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gfgtmsl/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CCJpcqGNEpDDwFxQJcogka)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/gfg.tmsl_official/)
-<!-- [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)]() -->
+<!-- [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)]() 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)]() -->
 
 ## Different Wings of GFG TMSL
   - **Technical** Wing
