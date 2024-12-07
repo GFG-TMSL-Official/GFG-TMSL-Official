@@ -8,6 +8,8 @@
   />
 </p>
 
+---
+
 [![](https://visitcount.itsvg.in/api?id=GFG-TMSL-Official8&icon=0&color=1)](https://visitcount.itsvg.in)
 ![info](https://img.shields.io/badge/GFG%20Student%20Chapter-Techno%20Main%20Salt%20Lake-darkgreen)
 <!-- ![Website](https://img.shields.io/badge/GFG%20Student%20Chapter-Techno%20Main%20Salt%20Lake-09845E) -->
