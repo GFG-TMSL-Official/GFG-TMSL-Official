@@ -15,7 +15,7 @@
 <!-- ![Website](https://img.shields.io/badge/GFG%20Student%20Chapter-Techno%20Main%20Salt%20Lake-09845E) -->
 
 ## 💫 About Us
-The **GFG Students Chapter** of **Techno Main Salt Lake* is a vibrant community of passionate programmers and tech enthusiasts. We strive to foster a culture of *learning*, *collaboration*, and *innovation* among our members. Through regular *workshops*, *hackathons*, *coding challenges*, and *workshops*. We aim to equip students with the necessary skills to excel in the competitive world of technology. Our chapter provides a platform for students to *connect with industry experts*, *gain practical experience*, and *build a strong network*. Join us as we embark on a journey of technical excellence and personal growth.
+The **GFG Students Chapter** of **Techno Main Salt Lake** is a vibrant community of passionate programmers and tech enthusiasts. We strive to foster a culture of *learning*, *collaboration*, and *innovation* among our members. Through regular *workshops*, *hackathons*, *coding challenges*, and *workshops*. We aim to equip students with the necessary skills to excel in the competitive world of technology. Our chapter provides a platform for students to *connect with industry experts*, *gain practical experience*, and *build a strong network*. Join us as we embark on a journey of technical excellence and personal growth.
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:gfg.tmsl.official@gmail.com)
